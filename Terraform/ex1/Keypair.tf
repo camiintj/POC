@@ -1,0 +1,4 @@
+resource "aws_key_pair" "dove_key" {
+  key_name   = "dove-key"
+  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCybWWMnuuEEu7FN0QerLRaXASDAFy33xifn6dbsDcfBByNOWb3wsqjaVuIbgSOL4CTuMfQe6LeqPVVIM0BVicuS+SAM3rbZhbmrMai7yCWI13r45A7s+He6pwZL6OKzFF2BoyEr1M4FWUN5M5IcgGpFWAjlZlev+kpBwYUKy/2XhK965G+UT6lbacyQfkQbVa4/EP8yItTqys3faZyKwrK33DB6uUWrX/kOaHvnoUhDdTdc4wfH+FScNRDuaSzixT7VXnq+dNJdYwJvasE1vY7f2X4X7gyud4EWEDUhumz7JPxT+1a+X2npR1UtXNuZ5IaBtzSUjxN1dViPKb7l7eNofoPvXExyb6zu4Mm7M1sIGQAq2VBAkeA5MLYppOioBSYHw8X4bEkJqWIAH5i59u7FlXo26ZQO8S6GdTcJC9X2tN0MnYyBqr5t3GJOg4Ps6z4VV7Ty++rNuhc/VFgnUS22uOFiQ/ITwGfd3nVDPWpQY9rlWRLxFCT+bFIneSpTMs= cami@debian"
+}
