@@ -1,0 +1,6 @@
+# Min Hour DayOfMonth Month DayofWeek COMMAND
+#30   20     *          *     1-5      
+
+
+* * * * * sh /opt/scripts/06_monit.sh &>> /var/log/monit_httpd.log
+
