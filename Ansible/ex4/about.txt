@@ -1,0 +1,4 @@
+create IAM 
+sudo apt install python3-pip
+pip3.10 install boto3
+
