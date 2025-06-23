@@ -1,0 +1,1 @@
+utilização de handlers para reinicio do serviço apenas quando houver mudança (change) detectada
